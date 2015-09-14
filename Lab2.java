@@ -1,7 +1,7 @@
 public class Lab2 {
     
     public static void main(String[] args) {
-	int total = 0;
+	
 	System.out.println("As I was going to St. Ives");
 	System.out.println("I met a man with seven wives");
 	System.out.println("Each wife had seven sacks");
@@ -26,7 +26,7 @@ public class Lab2 {
 
 	// int numKitsPerCat = (long) 7;
 
-	// byte total;
+	byte total;
 
 	// If the original man is going to St. Ives, then all are going
 	// the narrator, original man, kitten, cats, sacks, wives.
